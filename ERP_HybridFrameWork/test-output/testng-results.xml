@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[No of rows are::4]]>
+    </line>
+    <line>
+      <![CDATA[Stock-000003608   Stock-000003608]]>
+    </line>
+    <line>
+      <![CDATA[Supplier-00000007691         Supplier-00000007691]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-11-21T12:13:48 IST" name="Default suite" finished-at="2024-11-21T12:15:41 IST" duration-ms="113230">
+    <groups>
+    </groups>
+    <test started-at="2024-11-21T12:13:48 IST" name="Default test" finished-at="2024-11-21T12:15:41 IST" duration-ms="113230">
+      <class name="driverFactory.AppTest">
+        <test-method signature="kickStart()[pri:0, instance:driverFactory.AppTest@38d8f54a]" started-at="2024-11-21T12:13:48 IST" name="kickStart" finished-at="2024-11-21T12:15:41 IST" duration-ms="113179" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[No of rows are::4]]>
+            </line>
+            <line>
+              <![CDATA[Stock-000003608   Stock-000003608]]>
+            </line>
+            <line>
+              <![CDATA[Supplier-00000007691         Supplier-00000007691]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- kickStart -->
+      </class> <!-- driverFactory.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
